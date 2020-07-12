@@ -1,0 +1,10 @@
+Changelog 
+
+===============================================================================
+XCON 1.6.3
+Jun 01st, 2006
+
+Bugfix: Last '0' disappear problem for class/chinese.php
+
+by scottlai
+contact: scottlai1983@hotmail.com
